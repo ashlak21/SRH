@@ -14,7 +14,7 @@ class IO
            }
            else 
            {
-              cout<<"Login Error";
+              cout<<"Incorrect Username or Password";
            }
        }
     public:
